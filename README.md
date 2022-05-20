@@ -7,7 +7,7 @@
 Here you can know about my profile and a few skills and projects that I have obtained and developed
 in recent years as an independent GIS Developer
 
-##Projects
+## Projects
 [Nominatim script](https://github.com/PedroCalasBlasco/nominatim_geocode)
 
 ## Techincal skills
