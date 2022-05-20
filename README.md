@@ -38,9 +38,6 @@ in recent years as an independent GIS Developer
 - MapBox 
 - Deck.gl
 
-
-## Soft Skills
-- Work Team
 - 
 
 
