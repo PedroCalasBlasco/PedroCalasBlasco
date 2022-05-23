@@ -7,11 +7,14 @@
 Here you can know about my profile and a few skills and projects that I have obtained and developed
 in recent years as an independent GIS Developer
 
-## Repositories
+## Interest Scripts
 [Nominatim script](https://github.com/PedroCalasBlasco/nominatim_geocode)
 
+## Personal Projects
 [tourist tours Santa Fe](https://github.com/PedroCalasBlasco/paseosturisticos)
 [click here](https://pedrocalasblasco.github.io/paseosturisticos/)
+
+## Tutorials
 
 ## Techincal skills
 
